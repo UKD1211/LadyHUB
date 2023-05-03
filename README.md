@@ -62,6 +62,14 @@ git clone https://github.com/sainik-khaddar/LadyHUB.git
 <img src="./Screenshots/sc5.jpg" width="300">
 <img src="./Screenshots/sc6.jpg" width="300">
 
+## pequeño video
+
+ I provide a yt vid. link to explain ,that how it works.Thankyou.
+
+ https://youtu.be/lp4MPAHNkzA
+
+
+
 
 ## Our Team
 - Sainik Khaddar
