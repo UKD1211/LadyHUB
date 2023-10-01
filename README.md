@@ -64,7 +64,7 @@ git clone https://github.com/sainik-khaddar/LadyHUB.git
 
 ## pequeño video
 
- I provide a yt vid. link to explain ,that how it works.Thankyou.
+ I provide a youtube vid. link to explain ,that how it works.Thankyou.
 
  https://youtu.be/lp4MPAHNkzA
 
